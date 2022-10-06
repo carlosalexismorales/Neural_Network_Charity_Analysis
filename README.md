@@ -19,7 +19,10 @@ Alphabet Soup, a non-profit foundation, needs help vetting potiental recipients 
 
 The images below contain the code for data preprocessing 
 
--  The IS_SUCCESSFUL column is considered the target for my model.
+- The EIN, NAME, STATUS, and SPECIAL_CONSIDERATIONS were neither targets nor features and were removed from the data
+- The IS_SUCCESSFUL column was considered the target for the model 
+- The APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, INCOME_AMT, and ASK_AMT columns are considered to be the features of my model.
+-  
 
 
 
