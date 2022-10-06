@@ -21,7 +21,27 @@ The images below contain the code for data preprocessing
 
 - The EIN, NAME, STATUS, and SPECIAL_CONSIDERATIONS were neither targets nor features and were removed from the data
 - The IS_SUCCESSFUL column was considered the target for the model 
-- The APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, INCOME_AMT, and ASK_AMT columns are considered to be the features of my model.
+- The APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, INCOME_AMT, and ASK_AMT columns are considered to be the features for the model
+
+
+
+<img width="1011" alt="Screen Shot 2022-10-05 at 6 18 29 PM" src="https://user-images.githubusercontent.com/102444078/194192603-ae80beee-eb55-4a15-a951-75aa1e3de588.png">
+
+
+
+
+<img width="1006" alt="Screen Shot 2022-10-05 at 6 19 21 PM" src="https://user-images.githubusercontent.com/102444078/194192709-2995de4b-d506-42bd-b271-f5ba5885d657.png">
+
+
+
+
+<img width="1010" alt="Screen Shot 2022-10-05 at 6 19 43 PM" src="https://user-images.githubusercontent.com/102444078/194192762-244d2b25-8a8b-46d2-9ae5-ebfa00dc0026.png">
+
+
+
+
+
+
 
 
 
