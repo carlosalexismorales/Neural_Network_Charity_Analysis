@@ -79,6 +79,6 @@ The images below contain the code for designing the model
 
 The optimized AlphabetSoup neural network performed better than the first version. Although the improvement in performance was minimal, this is a step in the right direction towards creating one that can achieve target performance. The loss metric, for example, fell from 0.93 to 0.81, meaning that there is less model error, which can help make better decisions for Alphabet Soup. We can continue to modify the model by removing more superfluous columns, adding more neurons and hidden layers, and using different activation functions. 
 
-One recommendation to an alternative to solve this could be using a Random Forest model. A random forest is a supervised machine learning algorithm that is constructed from decision tree algorithms. The model builds smaller decision trees until it generates a classified output. 
+One recommendation to an alternative to solve this could be using a Random Forest model. A random forest is a supervised machine learning algorithm that is constructed from decision tree algorithms. The model builds smaller decision trees until it generates a classified output. We can attempt this model since it can also handle large datasets efficiently. 
 
 
