@@ -40,13 +40,34 @@ The images below contain the code for data preprocessing
 
 
 
+### Compiling, Training, and Evaluating the Model
+
+
+The images below contain the code for designing the model 
+
+
+- 120 neurons with a sigmoid function for the first hidden layer 
+- 50 nuerons with a ReLU function for the second hidden layer
+- 18 neurons with ReLU for the third hidden layer 
+- Sigmoid function for the outer layer  
+- I chose to change the activation function to sigmoid since after running the code multiple times, its performance was going on an upward trend. 
+- The model achieved an accuracy of 71% and was not able to meet the goal of 75%, however, it did perform better than my first model which had an accuracy of 70%
+- The model's performance was increased and changed by eliminating columns and creating more bins for rare occurances in columns, decreasing the number of values in some bins, adding more neurons and hidden layers, and using a differnet activation function
+
+
+<img width="1004" alt="Screen Shot 2022-10-05 at 6 22 45 PM" src="https://user-images.githubusercontent.com/102444078/194193050-c0ee2d5e-9091-46ba-abb8-77c39d339f82.png">
+
+
+
+
+<img width="1006" alt="Screen Shot 2022-10-05 at 6 23 09 PM" src="https://user-images.githubusercontent.com/102444078/194193084-9a0582f9-f51e-4575-9325-7c2b262241c0.png">
 
 
 
 
 
 
-
+<img width="1143" alt="Screen Shot 2022-10-05 at 6 23 32 PM" src="https://user-images.githubusercontent.com/102444078/194193128-33ad711c-6ed8-4b39-b671-4c3278c3151b.png">
 
 
 
