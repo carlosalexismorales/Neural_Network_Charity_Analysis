@@ -19,6 +19,15 @@ Alphabet Soup, a non-profit foundation, needs help vetting potiental recipients 
 
 The images below contain the code for data preprocessing 
 
+-  The IS_SUCCESSFUL column is considered the target for my model.
+
+
+
+
+
+
+
+
 
 
 
